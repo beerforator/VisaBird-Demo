@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: calc(100vh + 130px);
 
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), linear-gradient(180deg, rgba(0, 0, 0, 0) 51.63%, rgba(0, 0, 0, 0.185) 90.28%), url("images/1637016966_45-krot-info-p-gori-ameriki-gori-krasivo-foto-49%20%5Bproblembo.com%5D.jpg") center no-repeat;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), linear-gradient(180deg, rgba(0, 0, 0, 0) 51.63%, rgba(0, 0, 0, 0.185) 90.28%), url("./images/1637016966_45-krot-info-p-gori-ameriki-gori-krasivo-foto-49%20%5Bproblembo.com%5D.jpg") center no-repeat;
     background-size: cover;
 }
 
@@ -592,7 +592,7 @@ vis__form__input:last-child{
     flex-direction: column;
     justify-content: center;
 /*    align-items: center;*/
-    background: radial-gradient(72.3% 72.3% at 50% 50%, rgba(8, 4, 31, 0) 0%, rgba(8, 4, 31, 0.176) 100%), url(images/Group_325.jpg) center no-repeat;
+    background: radial-gradient(72.3% 72.3% at 50% 50%, rgba(8, 4, 31, 0) 0%, rgba(8, 4, 31, 0.176) 100%), url(./images/Group_325.jpg) center no-repeat;
     background-size: cover;
     
     width: 100%;
